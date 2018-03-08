@@ -19,7 +19,7 @@
 	</header>
 	<main>
 		<h1><?php echo $class__mainModel->helloWorld();?></h1>
-		<div class="content"><button><a href="#" style="text-decoration: none; color:#fff;">Documentation</a></button></div>
+		<div class="content"><button><a target="_blank" href="https://github.com/yasunovlad/linethin" style="text-decoration: none; color:#fff;">Documentation</a></button></div>
 	</main>
 </body>
 </html>
